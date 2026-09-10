@@ -1,3 +1,4 @@
+#Dawei Sun
 def area(b, h):
     return b * h
 
@@ -7,4 +8,3 @@ height = int(input("Height: "))
 answer = area(base, height)
 
 print("Area:", answer)
-
